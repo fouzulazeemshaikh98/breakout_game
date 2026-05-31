@@ -6,11 +6,11 @@ import random
 # For using vectors
 vec = pygame.math.Vector2
 
-TITLE = 'Simple Breakout Game with Python 3 and Pygame'
+TITLE = 'Breakout Game Karel!'
 WIDTH = 800
 HEIGHT = 600
 FPS = 120
-FONT_NAME = 'arial'
+FONT_NAME = 'times new roman'
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
